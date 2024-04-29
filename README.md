@@ -36,13 +36,23 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/Wazuh-SIEM-green?style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-557C94?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
+
+### Vulnerability Scanner
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-00AEFF?&style=for-the-badge&logo=Nessus&logoColor=white" />
+</div>
+
+### Threat Intel
+<div>
+    <img src="https://img.shields.io/badge/-Maltego-369AFF?&style=for-the-badge&logo=Maltego&logoColor=white" />
 </div>
 
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/Coursera-Cybersecurity%20Certificate-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Coursera_Cybersecurity_Certificate-2A73CC?&style=for-the-badge&logo=Coursera&logoColor=white" />
 </div>
 
 ## Projects
