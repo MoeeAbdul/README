@@ -14,14 +14,13 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Risk Assessment                               | <a href="https://docs.google.com/document/d/1da_xvuTVz3cpUeoi0iE7wwbN7Um0aMxNnoQKp3QuTEA/edit?usp=sharing">Vulnerability Rememdiation Plan</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Network Traffic Monitoring and Encryption Detection | <a href="https://docs.google.com/document/d/1AQWak3wmpduVUiA-6JL4YSQ1EeXNBWLED3HzrbKpjqo/edit?usp=sharing">Encryption Report</a>|
+| Security Automation with Alienvault OTX IOC, Wazuh SIEM, & Shuffle SOAR         | <a href="https://docs.google.com/document/d/1uaR-SgvwBlytmaI7AXArYNYYp0uMRm4yjGeyvBXEEjc/edit?usp=sharing">SOC & Automation Report|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
