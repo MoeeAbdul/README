@@ -62,4 +62,4 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
 - SOC Automation Report
 - Capstone Project
 - Python
-- Nomi Application
+- NOMI Application
