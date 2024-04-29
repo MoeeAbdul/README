@@ -1,12 +1,10 @@
 # Hello, I'm Moayad Abdul-Muhsen
 <a href="https://linkedin.com/in/moayadabdul/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent cybersecurity graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 I am a highly ambitious and team oriented cybersecurity analyst. I use my creativity and strong analytical skills to identify and diagnose security problems. I communicate the necessary solutions to keep business operations and their valued customers safe from threats, risks, and vulnerabilities. I actively research IT trends to remain alert and informed about potential threats.
 
@@ -15,7 +13,7 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://docs.google.com/document/d/1da_xvuTVz3cpUeoi0iE7wwbN7Um0aMxNnoQKp3QuTEA/edit?usp=sharing">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
