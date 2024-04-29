@@ -17,7 +17,7 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
 | Network Traffic Monitoring and Encryption Detection | <a href="https://docs.google.com/document/d/1AQWak3wmpduVUiA-6JL4YSQ1EeXNBWLED3HzrbKpjqo/edit?usp=sharing">Encryption Report</a>|
 | Security Automation with Alienvault OTX IOC, Wazuh SIEM, & Shuffle SOAR         | <a href="https://docs.google.com/document/d/1uaR-SgvwBlytmaI7AXArYNYYp0uMRm4yjGeyvBXEEjc/edit?usp=sharing">SOC & Automation Report|
 | Cybersecurity Risk Assessment, Threat Modeling, Network and Data Security, Third-Party Risk, Incident Response Planning, Business Continuity Planning & Executive Presentation      |  <a href="https://1drv.ms/u/s!Ajjze_n8MW5N_3vWKOLp4iF6Uscz?e=eboPgo">Capstone Project|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Python Encryption & Decryption Tool                 | <a href="blob:https://synapse.brainstation.io/0d94febf-6bc7-4abe-af61-fb8f2cc5c545"> Python|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
