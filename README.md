@@ -17,7 +17,6 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
 | Security Automation with Alienvault OTX IOC, Wazuh SIEM, & Shuffle SOAR         | <a href="https://docs.google.com/document/d/1uaR-SgvwBlytmaI7AXArYNYYp0uMRm4yjGeyvBXEEjc/edit?usp=sharing">SOC & Automation Report|
 | Cybersecurity Risk Assessment, Threat Modeling, Network and Data Security, Third-Party Risk, Incident Response Planning, Business Continuity Planning & Executive Presentation      |  <a href="https://1drv.ms/u/s!Ajjze_n8MW5N_3vWKOLp4iF6Uscz?e=eboPgo">Capstone Project|
 | Python Encryption & Decryption Tool                 | <a href="https://1drv.ms/u/s!Ajjze_n8MW5N_XX9R1KSf-UE3TrE?e=tFqesJ"> Python|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
@@ -31,7 +30,7 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wazuh-SIEM-green)" />
 </div>
 
 ### SIEM
@@ -48,5 +47,8 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Vulnerability Remediation Plan
+- Encryption Report
+- SOC Automation Report
+- Capstone Project
+- Python
