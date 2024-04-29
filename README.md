@@ -13,7 +13,7 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://docs.google.com/document/d/1da_xvuTVz3cpUeoi0iE7wwbN7Um0aMxNnoQKp3QuTEA/edit?usp=sharing">Detection Lab</a>|
+| Risk Assessment                               | <a href="https://docs.google.com/document/d/1da_xvuTVz3cpUeoi0iE7wwbN7Um0aMxNnoQKp3QuTEA/edit?usp=sharing">Vulnerability Rememdiation Plan</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
