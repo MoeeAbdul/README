@@ -16,7 +16,7 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
 | Risk Assessment                               | <a href="https://docs.google.com/document/d/1da_xvuTVz3cpUeoi0iE7wwbN7Um0aMxNnoQKp3QuTEA/edit?usp=sharing">Vulnerability Rememdiation Plan</a>|
 | Network Traffic Monitoring and Encryption Detection | <a href="https://docs.google.com/document/d/1AQWak3wmpduVUiA-6JL4YSQ1EeXNBWLED3HzrbKpjqo/edit?usp=sharing">Encryption Report</a>|
 | Security Automation with Alienvault OTX IOC, Wazuh SIEM, & Shuffle SOAR         | <a href="https://docs.google.com/document/d/1uaR-SgvwBlytmaI7AXArYNYYp0uMRm4yjGeyvBXEEjc/edit?usp=sharing">SOC & Automation Report|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Cybersecurity Risk Assessment, Threat Modeling, Network and Data Security, Third-Party Risk, Incident Response Planning, Business Continuity Planning & Executive Presentation      | Capstone Project|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -43,10 +43,8 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/Coursera-Cybersecurity%20Certificate-blue" />
 </div>
 
