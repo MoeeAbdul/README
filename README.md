@@ -17,6 +17,7 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
 | Security Automation with Alienvault OTX IOC, Wazuh SIEM, & Shuffle SOAR         | <a href="https://docs.google.com/document/d/1uaR-SgvwBlytmaI7AXArYNYYp0uMRm4yjGeyvBXEEjc/edit?usp=sharing">SOC & Automation Report|
 | Cybersecurity Risk Assessment, Threat Modeling, Network and Data Security, Third-Party Risk, Incident Response Planning, Business Continuity Planning & Executive Presentation      |  <a href="https://1drv.ms/u/s!Ajjze_n8MW5N_3vWKOLp4iF6Uscz?e=m0Ux35">Capstone Project|
 | Python Encryption & Decryption Tool                 | <a href="https://1drv.ms/u/s!Ajjze_n8MW5N_XX9R1KSf-UE3TrE?e=tFqesJ"> Python|
+| Industry Project - Software Enigeering, Cybsersecurity, Data Science, UX UI          | <a href= "https://www.canva.com/design/DAGBgTQmbZA/uX3i9vm5-rpwjKww-YXirg/edit?utm_content=DAGBgTQmbZA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> NOMI Application |
 
 ## Tools
 
