@@ -43,7 +43,7 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/Coursera-Cybersecurity%20Certificate-blue" />
+<img src="https://img.shields.io/badge/Coursera-Cybersecurity%20Certificate-blue?style=for-the-badge" />
 </div>
 
 ## Projects
