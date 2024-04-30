@@ -50,13 +50,18 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
     <img src="https://img.shields.io/badge/-Maltego-369AFF?&style=for-the-badge&logo=Maltego&logoColor=white" />
 </div>
 
-## Certifications
+### Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Coursera_Cybersecurity_Certificate-2A73CC?&style=for-the-badge&logo=Coursera&logoColor=white" />
 </div>
 
-## Projects
+### Education
+<div>
+    <a href="https://brainstation.io/"><img src="https://img.shields.io/badge/-BrainStation.io-2A73CC?&style=for-the-badge&logo=BrainStation&logoColor=white" /></a>
+</div>
+
+### Projects
 - Vulnerability Remediation Plan
 - Encryption Report
 - SOC Automation Report
