@@ -102,3 +102,6 @@ I am a highly ambitious and team oriented cybersecurity analyst. I use my creati
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
 </div>
 
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
