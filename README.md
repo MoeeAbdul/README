@@ -6,7 +6,7 @@
 
 ### About Me:
 
-I am a recent cybersecurity graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity graduate with a profound interest in technology and a dedication to solving complex problems.
 
 I am a highly ambitious and team oriented cybersecurity analyst. I use my creativity and strong analytical skills to identify and diagnose security problems. I communicate the necessary solutions to keep business operations and their valued customers safe from threats, risks, and vulnerabilities. I actively research IT trends to remain alert and informed about potential threats.
 
